@@ -2,7 +2,6 @@
 
 namespace Riley19280\SnipeItTweaks;
 
-use Spatie\LaravelPackageTools\Concerns\Package\HasRoutes;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
